@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Style+Script&display=swap');
+
+body{
+    font-family: 'Amatic SC', cursive;
+    background: blue;
+    color: white;
+    text-shadow: 10px 10px 10px black;
+    
+}
+h1{
+font-family: 'Amatic SC', cursive;
+    background: blue;
+    color: white;
+    text-shadow: 10px 10px 10px black;
+}
+a{
+    text-decoration: none;
+}
+
+
+input.cadastro{
+    
+    font: normal 18pt arial;
+    background: rgb(244, 244, 248);
+    color: rgb(0, 0, 0);
+    width: 350px;
+    height: 50px;
+    line-height: 100px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 20px;
+    box-shadow: 10px 10px 10px black;
+    
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font: 30pt;
+    color: white;
+    list-style: none;
+    text-align: center;
+    margin: 20px;
+}
+div.cadastrar{
+    font: normal 20pt arial;
+    background: rgb(246, 246, 248);
+    color: rgb(0, 0, 0);
+    width: auto;
+    height: 900px;
+    line-height: 100px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+input.criar{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(251, 251, 255);
+    border-radius: 10px;
+    width: 130px;
+    height: 50px ;
+    background: blue;
+}
+div{
+    font: normal 20pt arial;
+    background: rgb(5, 5, 248);
+    color: rgb(0, 0, 0);
+    width: auto;
+    height: 400px;
+    line-height: 100px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 20px;;
+}
+header{
+font-family: 'Amatic SC', cursive;
+font-weight: 700;
+color: rgb(0, 60, 255);
+
+}
